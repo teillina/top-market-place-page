@@ -1,0 +1,42 @@
+*{
+    font: Roboto;
+    
+}
+
+header,
+footer{
+    background-color: #1F2937;
+    color:white;
+
+}
+
+button{
+    color: white;
+    background-color: #3882F6;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    column-gap: 1em;
+    margin: 10px;
+}
+
+.quote{
+    display: flex;
+    justify-content: center;
+}
+
+.cta{
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+}
+
+
+
+img{
+    height: 150px;
+
+}
