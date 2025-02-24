@@ -1,0 +1,63 @@
+*{
+    font-family: Roboto;
+}
+
+header {
+    border: 1px red solid;
+    background-color: #1f2937;
+}
+
+
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    border: 1px red solid;
+    padding: 10px;
+    
+}
+
+.links{
+    border: 1px red solid;
+    display: flex;
+    justify-content: space-evenly;
+    gap:10px;
+    padding: 10px;
+    
+}
+
+
+
+.middle{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    flex-direction: column;
+    max-width: 10%;
+
+
+}
+
+.awesome{
+    border: 1px red solid;
+    padding: 10px;
+}
+
+.subtext{
+    border: 1px red solid;
+    padding: 10px;
+}
+
+.sign1{
+    border: 1px red solid;
+    padding: 10px;
+}
+
+.img {
+    height: 100px;
+}

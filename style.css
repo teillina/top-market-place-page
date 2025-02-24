@@ -5,17 +5,20 @@
 
 header,
 footer{
+    border: 1px red solid;
     background-color: #1F2937;
     color:white;
 
 }
 
 button{
+    border: 1px red solid;
     color: white;
     background-color: #3882F6;
 }
 
 nav{
+    border: 1px red solid;
     display: flex;
     justify-content: flex-end;
     align-content: center;
@@ -24,11 +27,13 @@ nav{
 }
 
 .quote{
+    border: 1px red solid;
     display: flex;
     justify-content: center;
 }
 
 .cta{
+    border: 1px red solid;
     display: flex;
     justify-content: center;
     background-color: #3882F6;
@@ -39,4 +44,8 @@ nav{
 img{
     height: 150px;
 
+}
+
+.info{
+    border: 1px red solid;
 }
